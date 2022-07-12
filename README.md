@@ -3,9 +3,11 @@ Hi there 👋
 I am a Frontend Developer from Colombia 🇨🇴
 
 What I do?
+
 🖥 I am a developer looking to help the world through software.
 
 Tools I work with
+
 vue js
 react
 JavaScript
@@ -18,4 +20,5 @@ Python
 - 👯 I'm looking to collaborate in development teams
 
 You can find me at:
+
 LinkedIn: www.linkedin.com/in/luisa-carmona/
