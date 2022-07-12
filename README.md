@@ -1,16 +1,21 @@
-### Hi there 👋
+Hi there 👋
 
-<!--
-**LuisaCarmona/LuisaCarmona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Frontend Developer from Colombia 🇨🇴
 
-Here are some ideas to get you started:
+What I do?
+🖥 I am a developer looking to help the world through software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tools I work with
+vue js
+react
+JavaScript
+HTML5
+CSS3
+Python
+
+- 🔭 I'm currently working on the creation of the Keyline Colombia website
+- 🌱 I'm currently learning about Data Analyst
+- 👯 I'm looking to collaborate in development teams
+
+You can find me at:
+LinkedIn: www.linkedin.com/in/luisa-carmona/
