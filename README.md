@@ -3,21 +3,22 @@ Hi there 👋
 I am a Frontend Developer from Colombia 🇨🇴
 
 
-What I do?
+About me:
 
 🖥 I am a developer looking to help the world through software.
 
 
-Tools I work with
+Tools I work with:
+- vue js
+- react
+- JavaScript
+- HTML5
+- CSS3
+- Python
+- SQL
 
-vue js
-react
-JavaScript
-HTML5
-CSS3
-Python
 
-
+What I do?
 - 🔭 I'm currently working on the creation of the Keyline Colombia website
 - 🌱 I'm currently learning about Data Analyst
 - 👯 I'm looking to collaborate in development teams
